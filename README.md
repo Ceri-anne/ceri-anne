@@ -1,15 +1,16 @@
 ### Hi there 👋
 
+#### About me
+
 - 👩🏼‍💻 iOS developer at Sky 
 - 👩🏼‍🎓 Completed [Sky's Get into Tech](http://getintotech.sky.com/courses/get-into-tech/) course in 2016
 - 🌱 Studying for an MSc in Computing (Software Engineering) with the Open University
 - 😄 Pronouns: She/her
 
 
-
 <a href="https://dev.to/ceri_anne_dev">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ceri-anne's DEV Profile" height="30" width="30">
-</a>
+</a> 
 
 
 <!--
