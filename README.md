@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👩🏼‍💻 I'm an iOS developer at Sky 
-- 👩🏼‍🎓 I completed [Sky's Get into Tech](http://getintotech.sky.com/courses/get-into-tech/) course in 2016
-- 🌱 I’m currently studying for an MSc in Computing (Software Engineering) with the Open University
+- 👩🏼‍💻 iOS developer at Sky 
+- 👩🏼‍🎓 Completed [Sky's Get into Tech](http://getintotech.sky.com/courses/get-into-tech/) course in 2016
+- 🌱 Studying for an MSc in Computing (Software Engineering) with the Open University
 - 😄 Pronouns: She/her
 
 
