@@ -4,7 +4,7 @@
 
 - 👩🏼‍💻 iOS developer at Sky 
 - 👩🏼‍🎓 Completed [Sky's Get into Tech](http://getintotech.sky.com/courses/get-into-tech/) course in 2016
-- 🌱 Studying for an MSc in Computing (Software Engineering) with the Open University
+- 🌱 MSc Computing (Software Engineering) with the Open University
 - 😄 Pronouns: She/her
 
 
