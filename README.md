@@ -2,7 +2,7 @@
 
 #### About me
 
-- 👩🏼‍💻 iOS developer at Sky 
+- 👩🏼‍💻 Engineering Manager (previously Senior iOS Engineer)
 - 👩🏼‍🎓 Completed [Sky's Get into Tech](http://getintotech.sky.com/courses/get-into-tech/) course in 2016
 - 🌱 MSc Computing (Software Engineering) with the Open University
 - 😄 Pronouns: She/her
